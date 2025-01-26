@@ -9,7 +9,7 @@
 - Design tools and resources
 - Daily activity management
 - Open for contributions
-
+<!--
 ## How to Contribute
 
 We welcome contributions to the Kit List! If you have a useful tool or resource you'd like to share, you can contribute by adding it to the **Kit List** repository.
@@ -75,3 +75,5 @@ Add an image (screenshot) of the website and your avatar which is displayed on t
 8. ***Commit your changes***
 9. ***Push your changes to your GitHub fork***
 10. ***Submit a Pull Request***
+
+-->  
