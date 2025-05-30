@@ -1,12 +1,10 @@
-import { StaticImageData } from "next/image";
-
 export type Kit = {
   title?: string;
-  image: StaticImageData;
+  image: string;
   author: {
     name: string;
     url: string;
-    avatar?: StaticImageData;
+    avatar?: string;
   };
 };
 //
