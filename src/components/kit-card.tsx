@@ -1,5 +1,5 @@
 import React from 'react'
-import Image, { StaticImageData } from 'next/image'
+import Image from 'next/image'
 import { Card, CardTitle } from './ui/card'
 import { Avatar } from './ui/avatar'
 import { generateNameAbbr } from '@/lib/utils'
@@ -8,12 +8,12 @@ import Link from 'next/link'
 
 export type Kit = {
   title?: string;
-  image: StaticImageData,
+  image: string,
   url: string;
   author: {
     name: string;
     url: string;
-    avatar: StaticImageData;
+    avatar: string;
   };
 };
 
