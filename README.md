@@ -9,7 +9,7 @@
 - Design tools and resources
 - Daily activity management
 - Open for contributions
-
+<!--
 ## How to Contribute
 
 We welcome contributions to the Kit List! If you have a useful tool or resource you'd like to share, you can contribute by adding it to the **Kit List** repository.
@@ -76,9 +76,19 @@ export const kits = [
   ...yourkitname,
 ];
 ```
+<<<<<<< HEAD
 
 7. **_Add an image of the website and avatar of your self_**
    Add an image (screenshot) of the website and your avatar which is displayed on the card to the src/assets/image directory. Name the image file to match the website's name and your name respectively, using lowercase (e.g., myawesomekit.png).
 8. **_Commit your changes_**
 9. **_Push your changes to your GitHub fork_**
 10. **_Submit a Pull Request_**
+=======
+7. ***Add an image of the website and avatar of your self*** 
+Add an image (screenshot) of the website and your avatar which is displayed on the card to the src/assets/image directory. Name the image file to match the website's name and your name respectively, using lowercase (e.g., myawesomekit.png).
+8. ***Commit your changes***
+9. ***Push your changes to your GitHub fork***
+10. ***Submit a Pull Request***
+
+-->  
+>>>>>>> e7e8d686a82efb07c821fe83f26efae02fa46b78
