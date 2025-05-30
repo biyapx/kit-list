@@ -1,6 +1,3 @@
-import ayalkbetsIcon from "@/assets/images/abio.ico";
-import sqlstudio from "@/assets/images/sqlstudio.png";
-
 export const databaseKit = [
   {
     title: "SQL Studio",
@@ -11,7 +8,8 @@ export const databaseKit = [
     author: {
       name: "Biya",
       url: "https://biyacraft.vercel.app",
-      avatar: ayalkbetsIcon,
+      avatar:
+        "https://res.cloudinary.com/deffkhv2g/image/upload/v1748559348/abio_qihzop.ico",
     },
   },
 ];

@@ -1,14 +1,3 @@
-import ayalkbetsIcon from "@/assets/images/abio.ico";
-import fumadocs from "@/assets/images/fumadocs.png";
-import dupe from "@/assets/images/dupe.png";
-import fable from "@/assets/images/fable.png";
-import calcom from "@/assets/images/calcom.png";
-import calendly from "@/assets/images/calendly.png";
-import piemenu from "@/assets/images/piemenu.png";
-import screenstudio from "@/assets/images/screeostudio.png";
-import notion from "@/assets/images/notion.png";
-import typeform from "@/assets/images/typeform.png";
-
 export const productivityKit = [
   {
     title: "Pie Menu",
@@ -19,7 +8,8 @@ export const productivityKit = [
     author: {
       name: "biyacraft",
       url: "https://biyacraft.vercel.app",
-      avatar: ayalkbetsIcon,
+      avatar:
+        "https://res.cloudinary.com/deffkhv2g/image/upload/v1748559348/abio_qihzop.ico",
     },
   },
   {
@@ -31,7 +21,8 @@ export const productivityKit = [
     author: {
       name: "biyacraft",
       url: "https://biyacraft.vercel.app",
-      avatar: ayalkbetsIcon,
+      avatar:
+        "https://res.cloudinary.com/deffkhv2g/image/upload/v1748559348/abio_qihzop.ico",
     },
   },
   {
@@ -43,7 +34,8 @@ export const productivityKit = [
     author: {
       name: "biyacraft",
       url: "https://biyacraft.vercel.app",
-      avatar: ayalkbetsIcon,
+      avatar:
+        "https://res.cloudinary.com/deffkhv2g/image/upload/v1748559348/abio_qihzop.ico",
     },
   },
   {
@@ -55,7 +47,8 @@ export const productivityKit = [
     author: {
       name: "biyacraft",
       url: "https://biyacraft.vercel.app",
-      avatar: ayalkbetsIcon,
+      avatar:
+        "https://res.cloudinary.com/deffkhv2g/image/upload/v1748559348/abio_qihzop.ico",
     },
   },
   {
@@ -67,7 +60,8 @@ export const productivityKit = [
     author: {
       name: "biyacraft",
       url: "https://biyacraft.vercel.app",
-      avatar: ayalkbetsIcon,
+      avatar:
+        "https://res.cloudinary.com/deffkhv2g/image/upload/v1748559348/abio_qihzop.ico",
     },
   },
   {
@@ -79,7 +73,8 @@ export const productivityKit = [
     author: {
       name: "biyacraft",
       url: "https://biyacraft.vercel.app",
-      avatar: ayalkbetsIcon,
+      avatar:
+        "https://res.cloudinary.com/deffkhv2g/image/upload/v1748559348/abio_qihzop.ico",
     },
   },
   {
@@ -91,7 +86,8 @@ export const productivityKit = [
     author: {
       name: "biyacraft",
       url: "https://biyacraft.vercel.app",
-      avatar: ayalkbetsIcon,
+      avatar:
+        "https://res.cloudinary.com/deffkhv2g/image/upload/v1748559348/abio_qihzop.ico",
     },
   },
   {
@@ -103,7 +99,8 @@ export const productivityKit = [
     author: {
       name: "biyacraft",
       url: "https://biyacraft.vercel.app",
-      avatar: ayalkbetsIcon,
+      avatar:
+        "https://res.cloudinary.com/deffkhv2g/image/upload/v1748559348/abio_qihzop.ico",
     },
   },
   {
@@ -115,7 +112,8 @@ export const productivityKit = [
     author: {
       name: "biyacraft",
       url: "https://biyacraft.vercel.app",
-      avatar: ayalkbetsIcon,
+      avatar:
+        "https://res.cloudinary.com/deffkhv2g/image/upload/v1748559348/abio_qihzop.ico",
     },
   },
 ];

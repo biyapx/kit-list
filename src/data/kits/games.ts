@@ -1,9 +1,3 @@
-import ayalkbetsIcon from "@/assets/images/abio.ico";
-
-import blobs from "@/assets/images/blobs.png";
-import shadertoy from "@/assets/images/shadertoy.png";
-import paint from "@/assets/images/paint.png";
-
 export const games = [
   {
     title: "The Blob Toy",
@@ -14,7 +8,8 @@ export const games = [
     author: {
       name: "Biyacraft",
       url: "https://biyacraft.vercel.app",
-      avatar: ayalkbetsIcon,
+      avatar:
+        "https://res.cloudinary.com/deffkhv2g/image/upload/v1748559348/abio_qihzop.ico",
     },
   },
   {
@@ -26,7 +21,8 @@ export const games = [
     author: {
       name: "Biyacraft",
       url: "https://biyacraft.vercel.app",
-      avatar: ayalkbetsIcon,
+      avatar:
+        "https://res.cloudinary.com/deffkhv2g/image/upload/v1748559348/abio_qihzop.ico",
     },
   },
   {
@@ -38,18 +34,21 @@ export const games = [
     author: {
       name: "Biyacraft",
       url: "https://biyacraft.vercel.app",
-      avatar: ayalkbetsIcon,
+      avatar:
+        "https://res.cloudinary.com/deffkhv2g/image/upload/v1748559348/abio_qihzop.ico",
     },
   },
   {
     title: "Shader Toy",
-    image: shadertoy,
+    image:
+      "https://res.cloudinary.com/deffkhv2g/image/upload/v1748560112/shadertoy_fd3ibf.png",
     tags: ["Games"],
     url: "https://www.shadertoy.com/",
     author: {
       name: "Biyacraft",
       url: "https://biyacraft.vercel.app",
-      avatar: ayalkbetsIcon,
+      avatar:
+        "https://res.cloudinary.com/deffkhv2g/image/upload/v1748559348/abio_qihzop.ico",
     },
   },
 ];

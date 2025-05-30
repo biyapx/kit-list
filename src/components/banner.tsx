@@ -2,7 +2,6 @@
 
 import { XIcon } from "lucide-react";
 import { useState } from "react";
-import ayalkbetsIcon from "@/assets/images/abio.ico";
 import Image from "next/image";
 
 
@@ -24,7 +23,7 @@ export function Banner() {
     >
       <div className="flex fixed overflow-hidden animate-in slide-in-from-bottom-full z-50 bottom-2 md:bottom-4 right-2 md:right-4 w-[calc(100vw-16px)] max-w-[350px] border border-border p-4 transition-all bg-background h-[88px] group">
         <div className="flex items-center justify-center size-16 rounded-full">
-          <Image src={ayalkbetsIcon} alt="" className="rounded-full"  />
+          <Image width={40} height={40} src={"https://res.cloudinary.com/deffkhv2g/image/upload/v1748559348/abio_qihzop.ico"} alt="" className="rounded-full" />
         </div>
         <div className="flex justify-between">
           <div className="flex flex-col space-y-0.5 pl-[40px]">

@@ -30,7 +30,7 @@ const KitCard = ({ kit }: { kit: Kit }) => {
             <div className='ml-1.5 absolute rounded-full w-3 h-3 lg:w-2 lg:h-2 lg:ml-1 -z-10 outline outline-green-500 animate-ping'></div>
             <Avatar className="size-6 animate-none lg:size-4">
               {
-                kit.author.avatar ? <Image src={kit.author.avatar} alt={kit.author.name} /> : <AvatarFallback>{generateNameAbbr(kit.author.name)}</AvatarFallback>
+                kit.author.avatar ? <Image width={50} height={50} src={kit.author.avatar} alt={kit.author.name} /> : <AvatarFallback>{generateNameAbbr(kit.author.name)}</AvatarFallback>
               }
             </Avatar>
           </Link>

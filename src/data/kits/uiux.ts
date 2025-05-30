@@ -1,25 +1,3 @@
-import ayalkbetsIcon from "@/assets/images/abio.ico";
-import tailusui from "@/assets/images/tailusui.png";
-import okaydev from "@/assets/images/okaydev.png";
-import luxeui from "@/assets/images/luxeui.png";
-import nextui from "@/assets/images/nextui.png";
-import uiverse from "@/assets/images/uiverse.png";
-import ibelickui from "@/assets/images/ibelickui.png";
-import bentogrids from "@/assets/images/bentogrids.png";
-import godly from "@/assets/images/godly.png";
-import svgl from "@/assets/images/svgl.png";
-import logodatabase from "@/assets/images/logodatabase.png";
-import blender from "@/assets/images/blender.png";
-import animata from "@/assets/images/animata.png";
-import farmui from "@/assets/images/farmui.png";
-import nuxtui from "@/assets/images/nuxtui.png";
-import chakra from "@/assets/images/chakraui.png";
-import aceternity from "@/assets/images/aceternity.png";
-import radixui from "@/assets/images/radixui.png";
-import mantine from "@/assets/images/mantine.png";
-import shadcn from "@/assets/images/shadcn.png";
-import meltui from "@/assets/images/meltui.png";
-
 export const uiuxKit = [
   {
     title: "Shadcn/ui",
@@ -30,7 +8,8 @@ export const uiuxKit = [
     author: {
       name: "biyacraft",
       url: "https://biyacraft.vercel.app",
-      avatar: ayalkbetsIcon,
+      avatar:
+        "https://res.cloudinary.com/deffkhv2g/image/upload/v1748559348/abio_qihzop.ico",
     },
   },
   {
@@ -42,7 +21,8 @@ export const uiuxKit = [
     author: {
       name: "biyacraft",
       url: "https://biyacraft.vercel.app",
-      avatar: ayalkbetsIcon,
+      avatar:
+        "https://res.cloudinary.com/deffkhv2g/image/upload/v1748559348/abio_qihzop.ico",
     },
   },
   {
@@ -54,7 +34,8 @@ export const uiuxKit = [
     author: {
       name: "biyacraft",
       url: "https://biyacraft.vercel.app",
-      avatar: ayalkbetsIcon,
+      avatar:
+        "https://res.cloudinary.com/deffkhv2g/image/upload/v1748559348/abio_qihzop.ico",
     },
   },
   {
@@ -66,7 +47,8 @@ export const uiuxKit = [
     author: {
       name: "biyacraft",
       url: "https://biyacraft.vercel.app",
-      avatar: ayalkbetsIcon,
+      avatar:
+        "https://res.cloudinary.com/deffkhv2g/image/upload/v1748559348/abio_qihzop.ico",
     },
   },
   {
@@ -78,7 +60,8 @@ export const uiuxKit = [
     author: {
       name: "biyacraft",
       url: "https://biyacraft.vercel.app",
-      avatar: ayalkbetsIcon,
+      avatar:
+        "https://res.cloudinary.com/deffkhv2g/image/upload/v1748559348/abio_qihzop.ico",
     },
   },
   {
@@ -90,7 +73,8 @@ export const uiuxKit = [
     author: {
       name: "biyacraft",
       url: "https://biyacraft.vercel.app",
-      avatar: ayalkbetsIcon,
+      avatar:
+        "https://res.cloudinary.com/deffkhv2g/image/upload/v1748559348/abio_qihzop.ico",
     },
   },
   {
@@ -102,7 +86,8 @@ export const uiuxKit = [
     author: {
       name: "biyacraft",
       url: "https://biyacraft.vercel.app",
-      avatar: ayalkbetsIcon,
+      avatar:
+        "https://res.cloudinary.com/deffkhv2g/image/upload/v1748559348/abio_qihzop.ico",
     },
   },
   {
@@ -114,7 +99,8 @@ export const uiuxKit = [
     author: {
       name: "biyacraft",
       url: "https://biyacraft.vercel.app",
-      avatar: ayalkbetsIcon,
+      avatar:
+        "https://res.cloudinary.com/deffkhv2g/image/upload/v1748559348/abio_qihzop.ico",
     },
   },
   {
@@ -126,7 +112,8 @@ export const uiuxKit = [
     author: {
       name: "biyacraft",
       url: "https://biyacraft.vercel.app",
-      avatar: ayalkbetsIcon,
+      avatar:
+        "https://res.cloudinary.com/deffkhv2g/image/upload/v1748559348/abio_qihzop.ico",
     },
   },
   {
@@ -138,7 +125,8 @@ export const uiuxKit = [
     author: {
       name: "biyacraft",
       url: "https://biyacraft.vercel.app",
-      avatar: ayalkbetsIcon,
+      avatar:
+        "https://res.cloudinary.com/deffkhv2g/image/upload/v1748559348/abio_qihzop.ico",
     },
   },
   {
@@ -150,7 +138,8 @@ export const uiuxKit = [
     author: {
       name: "biyacraft",
       url: "https://biyacraft.vercel.app",
-      avatar: ayalkbetsIcon,
+      avatar:
+        "https://res.cloudinary.com/deffkhv2g/image/upload/v1748559348/abio_qihzop.ico",
     },
   },
   {
@@ -162,7 +151,8 @@ export const uiuxKit = [
     author: {
       name: "biyacraft",
       url: "https://biyacraft.vercel.app",
-      avatar: ayalkbetsIcon,
+      avatar:
+        "https://res.cloudinary.com/deffkhv2g/image/upload/v1748559348/abio_qihzop.ico",
     },
   },
 
@@ -175,7 +165,8 @@ export const uiuxKit = [
     author: {
       name: "biyacraft",
       url: "https://biyacraft.vercel.app",
-      avatar: ayalkbetsIcon,
+      avatar:
+        "https://res.cloudinary.com/deffkhv2g/image/upload/v1748559348/abio_qihzop.ico",
     },
   },
   {
@@ -187,7 +178,8 @@ export const uiuxKit = [
     author: {
       name: "biyacraft",
       url: "https://biyacraft.vercel.app",
-      avatar: ayalkbetsIcon,
+      avatar:
+        "https://res.cloudinary.com/deffkhv2g/image/upload/v1748559348/abio_qihzop.ico",
     },
   },
   {
@@ -199,7 +191,8 @@ export const uiuxKit = [
     author: {
       name: "biyacraft",
       url: "https://biyacraft.vercel.app",
-      avatar: ayalkbetsIcon,
+      avatar:
+        "https://res.cloudinary.com/deffkhv2g/image/upload/v1748559348/abio_qihzop.ico",
     },
   },
   {
@@ -211,7 +204,8 @@ export const uiuxKit = [
     author: {
       name: "biyacraft",
       url: "https://biyacraft.vercel.app",
-      avatar: ayalkbetsIcon,
+      avatar:
+        "https://res.cloudinary.com/deffkhv2g/image/upload/v1748559348/abio_qihzop.ico",
     },
   },
   {
@@ -223,7 +217,8 @@ export const uiuxKit = [
     author: {
       name: "biyacraft",
       url: "https://biyacraft.vercel.app",
-      avatar: ayalkbetsIcon,
+      avatar:
+        "https://res.cloudinary.com/deffkhv2g/image/upload/v1748559348/abio_qihzop.ico",
     },
   },
   {
@@ -235,7 +230,8 @@ export const uiuxKit = [
     author: {
       name: "biyacraft",
       url: "https://biyacraft.vercel.app",
-      avatar: ayalkbetsIcon,
+      avatar:
+        "https://res.cloudinary.com/deffkhv2g/image/upload/v1748559348/abio_qihzop.ico",
     },
   },
   {
@@ -247,7 +243,8 @@ export const uiuxKit = [
     author: {
       name: "biyacraft",
       url: "https://biyacraft.vercel.app",
-      avatar: ayalkbetsIcon,
+      avatar:
+        "https://res.cloudinary.com/deffkhv2g/image/upload/v1748559348/abio_qihzop.ico",
     },
   },
   {
@@ -259,7 +256,8 @@ export const uiuxKit = [
     author: {
       name: "biyacraft",
       url: "https://biyacraft.vercel.app",
-      avatar: ayalkbetsIcon,
+      avatar:
+        "https://res.cloudinary.com/deffkhv2g/image/upload/v1748559348/abio_qihzop.ico",
     },
   },
 ];

@@ -1,10 +1,3 @@
-import xspiral from "@/assets/images/xspiral.png";
-import spline from "@/assets/images/spline.png";
-import ayalkbetsIcon from "@/assets/images/abio.ico";
-import iconmetric from "@/assets/images/iconmetric.png";
-import minimalmockups from "@/assets/images/minimalmockups.png";
-import scaleai from "@/assets/images/scaleai.png";
-
 export const threeDKit = [
   {
     title: "XSPIRAL",
@@ -15,7 +8,8 @@ export const threeDKit = [
     author: {
       name: "biyacraft",
       url: "https://biyacraft.vercel.app",
-      avatar: ayalkbetsIcon,
+      avatar:
+        "https://res.cloudinary.com/deffkhv2g/image/upload/v1748559348/abio_qihzop.ico",
     },
   },
   {
@@ -27,7 +21,8 @@ export const threeDKit = [
     author: {
       name: "biyacraft",
       url: "https://biyacraft.vercel.app",
-      avatar: ayalkbetsIcon,
+      avatar:
+        "https://res.cloudinary.com/deffkhv2g/image/upload/v1748559348/abio_qihzop.ico",
     },
   },
   {
@@ -39,7 +34,8 @@ export const threeDKit = [
     author: {
       name: "biyacraft",
       url: "https://biyacraft.vercel.app",
-      avatar: ayalkbetsIcon,
+      avatar:
+        "https://res.cloudinary.com/deffkhv2g/image/upload/v1748559348/abio_qihzop.ico",
     },
   },
   {
@@ -51,7 +47,8 @@ export const threeDKit = [
     author: {
       name: "biyacraft",
       url: "https://biyacraft.vercel.app",
-      avatar: ayalkbetsIcon,
+      avatar:
+        "https://res.cloudinary.com/deffkhv2g/image/upload/v1748559348/abio_qihzop.ico",
     },
   },
   {
@@ -63,7 +60,8 @@ export const threeDKit = [
     author: {
       name: "biyacraft",
       url: "https://biyacraft.vercel.app",
-      avatar: ayalkbetsIcon,
+      avatar:
+        "https://res.cloudinary.com/deffkhv2g/image/upload/v1748559348/abio_qihzop.ico",
     },
   },
 ];

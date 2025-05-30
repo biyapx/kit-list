@@ -1,11 +1,3 @@
-import ayalkbetsIcon from "@/assets/images/abio.ico";
-import victorynative from "@/assets/images/victorynative.png";
-import floatui from "@/assets/images/floatui.png";
-import magicui from "@/assets/images/magicui.png";
-import aceternity from "@/assets/images/aceternity.png";
-import logggos from "@/assets/images/logggos.png";
-import dzine from "@/assets/images/dzine.png";
-import primereact from "@/assets/images/primereact.png";
 export const frontendKit = [
   {
     title: "Float UI",
@@ -16,7 +8,8 @@ export const frontendKit = [
     author: {
       name: "Biyacraft",
       url: "https://biyacraft.vercel.app",
-      avatar: ayalkbetsIcon,
+      avatar:
+        "https://res.cloudinary.com/deffkhv2g/image/upload/v1748559348/abio_qihzop.ico",
     },
   },
   {
@@ -28,7 +21,8 @@ export const frontendKit = [
     author: {
       name: "Biyacraft",
       url: "https://biyacraft.vercel.app",
-      avatar: ayalkbetsIcon,
+      avatar:
+        "https://res.cloudinary.com/deffkhv2g/image/upload/v1748559348/abio_qihzop.ico",
     },
   },
   {
@@ -40,7 +34,8 @@ export const frontendKit = [
     author: {
       name: "Biyacraft",
       url: "https://biyacraft.vercel.app",
-      avatar: ayalkbetsIcon,
+      avatar:
+        "https://res.cloudinary.com/deffkhv2g/image/upload/v1748559348/abio_qihzop.ico",
     },
   },
   {
@@ -52,7 +47,8 @@ export const frontendKit = [
     author: {
       name: "Biyacraft",
       url: "https://biyacraft.vercel.app",
-      avatar: ayalkbetsIcon,
+      avatar:
+        "https://res.cloudinary.com/deffkhv2g/image/upload/v1748559348/abio_qihzop.ico",
     },
   },
   {
@@ -64,7 +60,8 @@ export const frontendKit = [
     author: {
       name: "Biyacraft",
       url: "https://biyacraft.vercel.app",
-      avatar: ayalkbetsIcon,
+      avatar:
+        "https://res.cloudinary.com/deffkhv2g/image/upload/v1748559348/abio_qihzop.ico",
     },
   },
   {
@@ -76,18 +73,21 @@ export const frontendKit = [
     author: {
       name: "Biyacraft",
       url: "https://biyacraft.vercel.app",
-      avatar: ayalkbetsIcon,
+      avatar:
+        "https://res.cloudinary.com/deffkhv2g/image/upload/v1748559348/abio_qihzop.ico",
     },
   },
   {
     title: "Primereact UI Library",
-    image: primereact,
+    image:
+      "https://res.cloudinary.com/deffkhv2g/image/upload/v1748626663/d94fca88-b02e-4a27-91b2-ee2aa99ae30f.png",
     tags: ["Frontend"],
     url: "https://primereact.dev",
     author: {
       name: "Biyacraft",
       url: "https://biyacraft.vercel.app",
-      avatar: ayalkbetsIcon,
+      avatar:
+        "https://res.cloudinary.com/deffkhv2g/image/upload/v1748559348/abio_qihzop.ico",
     },
   },
 ];

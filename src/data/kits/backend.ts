@@ -1,9 +1,3 @@
-import ayalkbetsIcon from "@/assets/images/abio.ico";
-import authkit from "@/assets/images/authkit.png";
-import hoppscotch from "@/assets/images/hoppscotch.png";
-import evervault from "@/assets/images/evervault.png";
-import betterauth from "@/assets/images/betterauth.png";
-
 export const backendKit = [
   {
     title: "AuthKit",
@@ -14,7 +8,8 @@ export const backendKit = [
     author: {
       name: "Biyacraft",
       url: "https://biyacraft.vercel.app",
-      avatar: ayalkbetsIcon,
+      avatar:
+        "https://res.cloudinary.com/deffkhv2g/image/upload/v1748559348/abio_qihzop.ico",
     },
   },
   {
@@ -26,7 +21,8 @@ export const backendKit = [
     author: {
       name: "Biyacraft",
       url: "https://biyacraft.vercel.app",
-      avatar: ayalkbetsIcon,
+      avatar:
+        "https://res.cloudinary.com/deffkhv2g/image/upload/v1748559348/abio_qihzop.ico",
     },
   },
   {
@@ -38,7 +34,8 @@ export const backendKit = [
     author: {
       name: "Biyacraft",
       url: "https://biyacraft.vercel.app",
-      avatar: ayalkbetsIcon,
+      avatar:
+        "https://res.cloudinary.com/deffkhv2g/image/upload/v1748559348/abio_qihzop.ico",
     },
   },
   {
@@ -50,7 +47,8 @@ export const backendKit = [
     author: {
       name: "Biyacraft",
       url: "https://biyacraft.vercel.app",
-      avatar: ayalkbetsIcon,
+      avatar:
+        "https://res.cloudinary.com/deffkhv2g/image/upload/v1748559348/abio_qihzop.ico",
     },
   },
 ];
